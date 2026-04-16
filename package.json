@@ -1,5 +1,5 @@
 {
-  "name": "{{TOOL_SLUG}}",
+  "name": "html-entity-encoder",
   "version": "0.1.0",
   "private": true,
   "scripts": {
